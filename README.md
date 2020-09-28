@@ -1,4 +1,6 @@
 # Kickstarting with Excel
+Below is the file that is used for this analysis project.
+[Kickstarter Analysis](https://github.com/caseychen3605/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
 ### Purpose
